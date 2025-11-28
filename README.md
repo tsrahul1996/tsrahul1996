@@ -8,7 +8,7 @@ A skilled software engineer proficient in Java and SQL, with more than 4 years o
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [rahul.t.sivan@outlook.com](mailto:rahul.t.sivan@outlook.com)
-* 🚀  I'm currently working on [Vesta Payment Solution](http://https://www.vesta.io/)
+* 🚀  I'm currently open to new roles
 * 🧠  I'm learning AWS cloud technologies
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm Batman!!!
